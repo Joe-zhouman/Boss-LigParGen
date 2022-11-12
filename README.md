@@ -1,1 +1,1 @@
-# Boss-LigParGen
+# Boss-LigParGen-Adapt
